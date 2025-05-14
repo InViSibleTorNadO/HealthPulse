@@ -31,4 +31,4 @@ This project is the **frontend-only** portion of the HealthHub system. It focuse
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/InViSibleTorNadO/HealthPulse.git
-   cd healthhub-frontend
+   cd HealthPulse
