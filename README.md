@@ -18,11 +18,8 @@ This project is the **frontend-only** portion of the HealthHub system. It focuse
 
 ## 🔧 Tech Stack
 
-- **Framework:** HTML / CSS
+- **Languages:** HTML / CSS
 - **Styling:** Tailwind CSS / Bootstrap / CSS Modules
-- **Routing:** React Router (if applicable)
-- **State Management:** Context API / Redux (if used)
-- **API Requests:** Axios / Fetch (configured for future backend)
 
 ---
 
